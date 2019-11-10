@@ -39,8 +39,8 @@ int main()
 		case 3: return 0;
 		}
 		}; break;
-	case 3: {int answer_2 = menu_2();
-		switch (answer_2) {
+	case 3: {int answer_4 = menu_4();
+		switch (answer_4) {
 		case 0: m80(); break;
 		case 1: m81(); break;
 		case 2: m83(); break;
